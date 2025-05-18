@@ -1,0 +1,50 @@
+﻿  card.cpp
+  gameProgramDesign.cpp
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244:         with
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244:         [
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244:             T=unsigned int
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244:         ]
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244:         and
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244:         [
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244:             T=float
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,52): warning C4244:         ]
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244:         with
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244:         [
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244:             T=unsigned int
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244:         ]
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244:         and
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244:         [
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244:             T=float
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(350,38): warning C4244:         ]
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(397,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(402,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(408,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(412,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(416,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(420,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(435,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(441,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(447,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(451,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(455,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(459,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,144): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,144): warning C4244:         with
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,144): warning C4244:         [
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,144): warning C4244:             T=unsigned int
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,144): warning C4244:         ]
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,80): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,80): warning C4244:         with
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,80): warning C4244:         [
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,80): warning C4244:             T=unsigned int
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(512,80): warning C4244:         ]
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(585,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\c语言\c++\GameCardProject\gameProgramDesign.cpp(603,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  7 of 273 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  GameCardProject.vcxproj -> D:\GameCard\Gamecard.exe

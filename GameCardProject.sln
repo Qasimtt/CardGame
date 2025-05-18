@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameCardProject", "GameCardProject.vcxproj", "{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupCardGame", "..\SetupCardGame\SetupCardGame.vdproj", "{E80FECDF-A184-8CCA-5548-9781E089CF8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}.Debug|x64.ActiveCfg = Debug|x64
+		{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}.Debug|x64.Build.0 = Debug|x64
+		{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}.Debug|x86.ActiveCfg = Debug|Win32
+		{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}.Debug|x86.Build.0 = Debug|Win32
+		{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}.Release|x64.ActiveCfg = Release|x64
+		{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}.Release|x64.Build.0 = Release|x64
+		{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}.Release|x86.ActiveCfg = Release|Win32
+		{251A2746-A2C7-4B40-BF5C-700EBF9D8F9D}.Release|x86.Build.0 = Release|Win32
+		{E80FECDF-A184-8CCA-5548-9781E089CF8C}.Debug|x64.ActiveCfg = Debug
+		{E80FECDF-A184-8CCA-5548-9781E089CF8C}.Debug|x86.ActiveCfg = Debug
+		{E80FECDF-A184-8CCA-5548-9781E089CF8C}.Release|x64.ActiveCfg = Release
+		{E80FECDF-A184-8CCA-5548-9781E089CF8C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BBEAC99-3B3A-4403-869A-BFD6BF90786F}
+	EndGlobalSection
+EndGlobal
